@@ -1,4 +1,4 @@
-# Milestone Report Readme:\
+# Milestone Report Readme:
 (1) Description of the dataset that you have chosen\
 (2) initial consideration\
 (2) Overview of the business problem\
