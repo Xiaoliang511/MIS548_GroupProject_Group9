@@ -1,3 +1,5 @@
-(1) Description of the dataset that you have chosen
-(2) Overview of the business problem that you want to focus on
-(3) Future plans for the project
+Here is our Milestone Report which contain:\n
+(1) Description of the dataset that you have chosen\n
+(2) initial consideration
+(2) Overview of the business problem\n
+(3) Future plans for the project\n
