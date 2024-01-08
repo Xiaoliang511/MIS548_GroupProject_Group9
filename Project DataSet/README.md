@@ -1,1 +1,2 @@
-
+Due to the limited of GitHub, we only upload palyers and teams data.  
+you could find whole dataset from this link https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play
