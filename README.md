@@ -1,4 +1,4 @@
-# MIS548 GroupProject Group9
+# MIS548 Group Project: Group - 9
 ### Group Members: Zachary Newland, Siddarth Gopalakrishnan, Sean Valerga, Pooja Veenu, Xiao Liang
  Welcome to MIS548-GroupProject-Group9 Data Wrangling Group Project! This repository is the collaborative effort of our team in the Data Wrangling course.  
 ### Dataset Selection: NFL Play_by_Play data. 
