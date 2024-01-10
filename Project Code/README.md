@@ -1,10 +1,10 @@
 # Project Code Folder:  
-In this folder contain our code in two formate JupyterNote book and HTML.
+This folder contains code in two formats, both JupyterNote book and HTML.
 ### Information of code:  
- - we do data cleaning for three table (players, plays and teams).
- - get basic information of three table.
- - we use primary key to merge three table.
- - we do data anaysis.
- - create random sample for predictive analysis.
- - logistic regression.
- - linear regression.
+ - Data cleaning for three table (players, plays and teams).
+ - Basic summary each of the three tables.
+ - Primary keys were used to merge tables.
+ - Data anaysis / trend analyzation.
+ - Random sample for predictive analysis in:
+ -  Logistic regression.
+ -  Linear regression.
