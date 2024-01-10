@@ -1,7 +1,7 @@
 # Datasets
-## Due to the limited of GitHub, we only upload palyers and teams data. There are links for plays table and dataset after cleaning
+## Due to the limited of GitHub, the team can only upload palyers and teams data. There are links for plays table and dataset after cleaning
 ### Datasets before cleaning and merging   
-you could find whole dataset from this link https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play  
+Whole dataset is contributed from this link https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play  
 #### Basic information of data before cleaning:
  - Players dataset: (56175, 22)
  - Plays dataset: (943091, 29)
