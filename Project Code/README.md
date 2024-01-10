@@ -6,5 +6,5 @@ This folder contains code in two formats, both JupyterNote book and HTML.
  - Primary keys were used to merge tables.
  - Data anaysis / trend analyzation.
  - Random sample for predictive analysis in:
- -  Logistic regression.
- -  Linear regression.
+     - Logistic regression.
+     - Linear regression.
