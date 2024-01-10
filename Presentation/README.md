@@ -1,1 +1,3 @@
-
+# Presentation  
+In this folder we get PowerPoint for our project presentation and link presentation record. 
+#### Here is the link of our presentation record: https://iowastate.sharepoint.com/:v:/r/sites/MIS548-Group9/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20240109_183049-Meeting%20Recording.mp4?csf=1&web=1&e=Tkwam4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
